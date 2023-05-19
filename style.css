@@ -1,0 +1,8 @@
+/*  Using flexbox to center the card in the vertical and horizontal center. */
+
+.flex-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
